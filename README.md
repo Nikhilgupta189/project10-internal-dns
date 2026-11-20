@@ -98,11 +98,11 @@ The DNS server successfully resolved the hostname to the configured IPv4 address
 
 ### DNS A Record Configuration
 
-![DNS A Record](screenshots/project10-dns-record.png)
+![DNS A Record](project10-dns-record.png)
 
 ### Successful nslookup Verification
 
-![nslookup Verification](screenshots/project10-nslookup.png)
+![nslookup Verification](project10-nslookup.png)
 
 ## Key Learnings
 
